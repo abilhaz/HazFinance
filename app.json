@@ -7,6 +7,9 @@
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "assetBundlePatterns": ["**/*"],
+    "splash": {
+      "backgroundColor": "#040054"
+    },
     "android": {
       "package": "com.hazfinance.app",
       "versionCode": 1
