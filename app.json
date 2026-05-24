@@ -11,6 +11,11 @@
       "package": "com.hazfinance.app",
       "versionCode": 1
     },
-   "plugins": []
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "355174d1-88e2-4922-bc4f-f471eac9000a"
+      }
+    }
   }
 }
