@@ -2,20 +2,14 @@
   "expo": {
     "name": "Haz Finance",
     "slug": "haz-finance",
+    "scheme": "hazfinance",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "assetBundlePatterns": ["**/*"],
-    "ios": {
-      "supportsTablet": false,
-      "bundleIdentifier": "com.hazfinance.app"
-    },
     "android": {
       "package": "com.hazfinance.app",
-      "versionCode": 1,
-      "adaptiveIcon": {
-        "backgroundColor": "#040054"
-      }
+      "versionCode": 1
     },
     "plugins": [
       "expo-sqlite"
